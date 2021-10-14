@@ -1,10 +1,4 @@
 ### **Olá, Eu sou a Andréia Neves!**
-
-- 🌱  No  momento estou estudando  desenvolvimento Front-end
-- 📫  Contate-me através do Linkedln  linkedin.com/in/andréia-neves-11875a178
-- 😉 Pronomes: ela/dela
-
-
 <div align="left">
   <a href="https://github.com/Andreia-Neves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andreia-Neves&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -23,3 +17,4 @@
   <a href = "mailto:andréia-neves-11875a178/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>             
   <a href="https://www.linkedin.com/in/andréia-neves-11875a178/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+![Snake animation](https://github.com/Andreia-Neves/Andreia-Neves/blob/output/github-contribution-grid-snake.svg)
